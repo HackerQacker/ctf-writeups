@@ -137,3 +137,5 @@ Now that no problems left to be solved, the payload:
 ```
 
 And the flag - `CTF{s4ndb0x1n9_s0urc3_1s_h4rd_ev3n_1n_rus7}`
+
+In fact it turned out the intended solution is actually as "hinted" , as seen in [the original writeup](https://github.com/google/google-ctf/tree/master/2021/quals/pwn-memsafety)
